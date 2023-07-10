@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HKYUC39W8C.by.softclub.dbo.belarusbank.dev",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "by.softclub.dbo.belarusbank.dev",
+               "sha256_cert_fingerprints": ["12:2B:8F:CC:EE:10:C6:68:9F:DE:03:DF:F2:35:25:31:B2:52:A7:30:96:EA:E1:35:78:AF:A4:42:9E:1F:9C:B9"] }
+}]
